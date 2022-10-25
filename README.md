@@ -57,5 +57,5 @@ I'm a Full Stack Developer student :computer: half of the day, while the other h
 [website]: /
 [twitter]: https://twitter.com/RenatoValenci20/
 [instagram]: https://www.instagram.com/renato_va.ce/
-[linkedin]: https://www.linkedin.com/in/renato-valencia-arce-78909224a/
+[linkedin]: https://www.linkedin.com/in/rjva29/
 [medium]: https://medium.com/@renato.vace/
