@@ -1,28 +1,18 @@
-## Hey 👋, I'm Renato Valencia!  
-  
+## Hi there! 👋 I'm Renato Valencia
 
 ### Glad to see you here!  
 
-I am a mix of biotechnology engineer (focus in bioinformatics and medical biotechnology), a data scientist and a researcher. I use my skills to improve the quality of life of human beings with the help of current technological innovations.
+### About Me
+I'm a Biotechnology Engineer specializing in Bioinformatics and Medical Biotechnology, with a growing interest in Data Science and its applications in biological and biomedical fields. My passion lies in leveraging computational tools to simulate biological processes and develop innovative solutions to complex healthcare challenges.
 
-I am currently interested in in silico research, which uses computational models to simulate biological processes and solve biomedical problems.  
+With experience in both wet-lab and computational environments, I've developed a diverse skill set, from molecular biology techniques like PCR and gene editing, to bioinformatics tools for genomic and proteomic analysis.
 
-With my background in laboratories on the university campus, both practical in the case of medical biotechnology and computational in the CIIM (Center for Research in Molecular Engineering) in the bioinformatics area, I am ready to take on the challenges that come my way.
+Current Interests
+🔬 I'm focused on researching multi-target drugs and developing a PaaS for biotechnology engineering students.
+🌱 Currently enhancing my skills in Data Science and Machine Learning to expand my expertise in in silico research.
+🧠 Passionate about exploring molecular dynamics simulations, drug design, and bioinformatics to improve therapeutic developments.
 
-
-<br/>  
-
-
-## I shouldn’t tell you this but 
-
-- 🔭 I’m currently working on: 🔬 Researching multi-target drugs 💊 and a Paas for biotechnology engineering students. 💻🤫
-  
-
-- 🌱 I’m currently learning DataScience
-  
-
-- ⚡ Keep Moving
-
+⚡ Always eager to learn and embrace new challenges!
 
 <br/>  
 
