@@ -1,34 +1,63 @@
-## Hi there! 👋 I'm Renato Valencia
+# 👋 Hi there! I'm **Renato Valencia Arce**
 
-### Glad to see you here!  
+#### 🚀 Biotechnology Engineer | Computational Biology | Full-Stack Developer
 
-### About Me
-I'm a Biotechnology Engineer specializing in Bioinformatics and Medical Biotechnology, with a growing interest in Data Science and its applications in biological and biomedical fields. My passion lies in leveraging computational tools to simulate biological processes and develop innovative solutions to complex healthcare challenges.
+---
 
-With experience in both wet-lab and computational environments, I've developed a diverse skill set, from molecular biology techniques like PCR and gene editing, to bioinformatics tools for genomic and proteomic analysis.
+## 👨‍🔬 About Me
 
-Current Interests
-🔬 I'm focused on researching multi-target drugs and developing a PaaS for biotechnology engineering students.
-🌱 Currently enhancing my skills in Data Science and Machine Learning to expand my expertise in in silico research.
-🧠 Passionate about exploring molecular dynamics simulations, drug design, and bioinformatics to improve therapeutic developments.
+I'm a **Biotechnology Engineer** specializing in **Computational Biology, Bioinformatics, and Data Science**, with strong experience in **molecular dynamics simulations**, **drug discovery**, and **biomedical research**.
 
-⚡ Always eager to learn and embrace new challenges!
+Alongside my research career, I’ve also worked as a **Full-Stack Developer**, building scalable digital solutions and bridging the gap between **science and technology** as junior developer.
 
-<br/>  
+✨ My goal is to integrate **AI, data science, and molecular modeling** to create impactful applications in **drug development and biotechnology innovation**.
 
+---
 
-## Languages and Tools  
+## 🔬 Research & Academic Experience
+
+* 🧪 **Molecular Dynamics & Drug Design**: Led projects on cancer, Alzheimer’s, and phytotherapy using **GROMACS, Gaussian, ORCA**.
+* 📊 **Bioinformatics & Data Pipelines**: Automated workflows with **Python, R, Bash, SQL** for large-scale biological datasets.
+* 🎓 **Teaching**: Designed and taught workshops on **computational biology, Linux scripting, and molecular modeling** for international students (IFMSA-SCORE).
+* 🧬 **Bioprocess Engineering**: Prototyped a **3D-printed rotating bioreactor** for scalable microalgae cultivation.
+
+---
+
+## 📚 Professional Training
+
+* 🎓 IBM Generative AI Engineering – Coursera   | 2025 - Present
+* 🎓 IBM Data Science – Coursera                | 2025 - Present
+* 🎓 Google Project Management – Coursera       | 2025 - Present
+
+---
+
+## 🌍 Languages
+
+* **Spanish**: Native
+* **English**: Upper-intermediate (Advanced reading, intermediate speaking/writing)
+
+---
+
+## 🛠️ Languages & Tools
+
 <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a> 
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>   
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="30" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="30" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="30" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r-original.svg" height="30" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="30" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="30" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="30" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="30" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="30" /></a>  
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="30" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="30" /></a>  
 </div>  
+
+---
+
+## 📫 Contact
+
+* 📍 Arequipa, Peru
+* 📧 [renato.vace@gmail.com](mailto:renato.vace@gmail.com)
+* 💼 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
