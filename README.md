@@ -1,25 +1,42 @@
-# 👋 Hi there! I'm **Renato Valencia Arce**
+# Renato Valencia Arce
 
-#### 🚀 Biotechnology Engineer | Computational Biology | Full-Stack Developer
-
----
-
-## 👨‍🔬 About Me
-
-I'm a **Biotechnology Engineer** specializing in **Computational Biology, Bioinformatics, and Data Science**, with strong experience in **molecular dynamics simulations**, **drug discovery**, and **biomedical research**.
-
-Alongside my research career, I’ve also worked as a **Full-Stack Developer**, building scalable digital solutions and bridging the gap between **science and technology** as junior developer.
-
-✨ My goal is to integrate **AI, data science, and molecular modeling** to create impactful applications in **drug development and biotechnology innovation**.
+**Biotechnology Engineer | Computational Biology | Bioinformatics | Full-Stack Software Developer**
 
 ---
 
-## 🔬 Research & Academic Experience
+## About Me
 
-* 🧪 **Molecular Dynamics & Drug Design**: Led projects on cancer, Alzheimer’s, and phytotherapy using **GROMACS, Gaussian, ORCA**.
-* 📊 **Bioinformatics & Data Pipelines**: Automated workflows with **Python, R, Bash, SQL** for large-scale biological datasets.
-* 🎓 **Teaching**: Designed and taught workshops on **computational biology, Linux scripting, and molecular modeling** for international students (IFMSA-SCORE).
-* 🧬 **Bioprocess Engineering**: Prototyped a **3D-printed rotating bioreactor** for scalable microalgae cultivation.
+I am a Biotechnology Engineer working at the intersection of **computational biology, bioinformatics, and scientific software development**. My work focuses on **molecular modeling, molecular dynamics, and structure-based drug discovery**, with an emphasis on building **reproducible and scalable computational systems**.
+
+I develop software as a core component of scientific inquiry. My projects integrate **computational chemistry, data science, and systems design**, aiming to formalize and automate complex workflows in biomolecular research.
+
+Alongside my research background, I build **full-stack applications** across desktop and mobile environments, using technologies such as **Flutter and Electron**, with a focus on performance, modularity, and reproducibility.
+
+I am particularly interested in the convergence of **artificial intelligence and structural biology**, especially in the context of **data-driven approaches to molecular systems**.
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">  
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="30" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="30" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="30" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" /></a>  
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="30" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="30" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="30" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="30" /></a>  
+<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="30" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" /></a>  
+</div>  
 
 ---
 
@@ -35,24 +52,6 @@ Alongside my research career, I’ve also worked as a **Full-Stack Developer**, 
 
 * **Spanish**: Native
 * **English**: Upper-intermediate (Advanced reading, intermediate speaking/writing)
-
----
-
-## 🛠️ Languages & Tools
-
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="30" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="30" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="30" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="30" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="30" /></a>  
-<!-- <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="30" /></a>   -->
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="30" /></a>  
-<!-- <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="30" /></a>   -->
-<!-- <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="30" /></a>   -->
-<!-- <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="30" /></a>   -->
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="30" /></a>  
-</div>  
 
 ---
 
